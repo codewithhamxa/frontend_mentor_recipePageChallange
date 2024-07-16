@@ -23,8 +23,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/codewithhamxa/frontend_mentor_recipePageChallange)
+- Live Site URL: [Preview](https://codewithhamxa.github.io/frontend_mentor_recipePageChallange/)
 
 ## My process
 
@@ -39,14 +39,26 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 Throughout this project, I learned how to use semantic HTML5 markup effectively to create a well-structured and accessible web page. Additionally, I explored custom CSS properties to enhance the design and improve user experience.
 
-Here are some code snippets I'm proud of:
 
-```html
-<div class="wrapper">
-    <img src="omelette.jpg" alt="Omelette">
-    <div class="content">
-        <h1>Simple Omelette Recipe</h1>
-        <p>An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice of cheese, vegetables, or meats.</p>
-        ...
-    </div>
-</div>
+### Continued development
+
+In future projects, I want to focus on improving my skills in:
+
+- Responsive design: Ensuring that web pages look great on all devices.
+- Advanced CSS techniques: Utilizing CSS Grid and more complex animations.
+- JavaScript: Enhancing interactivity and functionality.
+
+
+### Useful resources
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) - An excellent resource for learning more about HTML, CSS, and JavaScript.
+- [CSS-Tricks](https://css-tricks.com/) -  Great articles and tips on CSS techniques.
+
+## Author
+
+- Linkedin - [M. Hamza Javed](https://www.linkedin.com/in/hamzajavedreactdev/)
+- Frontend Mentor - [@codewithhamxa](https://www.frontendmentor.io/profile/codewithhamxa)
+
+## Acknowledgments
+
+I'd like to thank Frontend Mentor for providing this challenge. It was a great learning experience and helped me improve my skills in web development.
